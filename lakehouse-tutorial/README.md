@@ -178,7 +178,7 @@ This repository accompanies our comprehensive YouTube tutorial series. Part 1 co
 After mastering this tutorial, you'll have the foundation to tackle any data engineering challenge. The skills transfer directly to processing financial transactions, IoT sensor data, customer analytics, or real-time streaming data. Consider extending your project with Power BI dashboards or building AI agents for conversational analytics.
 
 
-[!Learning Journey](visuals/img3-conclusion.png)
+![Learning Journey](visuals/img3-whatsnext.png)
 
 ## 🤝 Contributing
 
