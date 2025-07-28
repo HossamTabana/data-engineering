@@ -127,7 +127,7 @@ You'll start by learning why traditional approaches fall short and how the lakeh
 - Monitoring and alerting best practices
 - Scaling considerations for enterprise workloads
 
-![Medallion Architecture](visuals/img 2 - optimization.png)
+![Medallion Architecture](visuals/img2-optimization.png)
 
 ## 🏗️ Architecture You'll Build
 
@@ -137,7 +137,7 @@ You'll start by learning why traditional approaches fall short and how the lakeh
 - **Gold Layer** → Aggregated analytics and ML-ready features
 
 
-![Medallion Architecture](visuals/img 1 - medallion architecture.png)
+![Medallion Architecture](visuals/img1-medallion-architecture.png)
 
 **Technology Stack:**
 - **Unity Catalog** → Data governance and discovery
@@ -178,7 +178,7 @@ This repository accompanies our comprehensive YouTube tutorial series. Part 1 co
 After mastering this tutorial, you'll have the foundation to tackle any data engineering challenge. The skills transfer directly to processing financial transactions, IoT sensor data, customer analytics, or real-time streaming data. Consider extending your project with Power BI dashboards or building AI agents for conversational analytics.
 
 
-!Learning Journey](visuals/img 3 - conclusion.png)
+[!Learning Journey](visuals/img3-conclusion.png)
 
 ## 🤝 Contributing
 
