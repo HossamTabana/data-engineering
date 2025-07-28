@@ -1,6 +1,6 @@
 # 🚀 Data Engineering Portfolio
 
-Real-world data engineering projects and tutorials covering modern data stack technologies.
+Real-world data engineering projects and tutorials covering Data & AI technologies.
 
 ## Projects
 
@@ -13,6 +13,6 @@ Your first complete data engineering project - build a production lakehouse from
 
 ---
 
-👋 **About:** This portfolio showcases hands-on data engineering projects designed for developers breaking into data & AI. Each project includes complete tutorials, sample data, and production-ready patterns.
+👋 **About:** This portfolio showcases hands-on data engineering projects designed for practitioners to advance their knowledge in the data & AI space. Each project includes complete tutorials, sample data, and production-ready patterns.
 
 ⭐ **Star this repo** if you find it helpful for your data engineering journey!
