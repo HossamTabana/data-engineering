@@ -71,9 +71,10 @@
 
 ```
 ├── Health Analytics Demo.ipynb     # Complete step-by-step tutorial
-├── sample_health_export.xml        # Sample data to practice with
-├── README.md                      # This guide
-└── visuals/                       # Architecture diagrams and examples
+├── data/
+│   └── sample_export.xml           # Sample data to practice with
+├── visuals/                        # Architecture diagrams and examples
+└── README.md                       # This guide
 ```
 
 ## 🛠️ Quick Start
@@ -86,7 +87,7 @@
    - Import `Health Analytics Demo.ipynb`
 
 2. **Upload Data**
-   - Download `sample_health_export.xml` from this repo
+   - Download `sample_export.xml` from this repo
    - Upload to your Databricks workspace
 
 3. **Start Learning**
@@ -98,6 +99,9 @@
 
 ### **Foundation: Understanding Data Architecture**
 You'll start by learning why traditional approaches fall short and how the lakehouse architecture solves real business problems. We'll set up Unity Catalog to understand enterprise data governance from day one.
+
+### 🏗️ Lakehouse Architecture Overview  
+![Lakehouse Architecture](visuals/lakehouse-diagram.png)
 
 ### **Bronze Layer: Raw Data Ingestion**
 - Unity Catalog volume creation and management
@@ -123,12 +127,17 @@ You'll start by learning why traditional approaches fall short and how the lakeh
 - Monitoring and alerting best practices
 - Scaling considerations for enterprise workloads
 
+![Medallion Architecture](visuals/img 2 - optimization.png)
+
 ## 🏗️ Architecture You'll Build
 
 **Medallion Architecture (Industry Standard):**
 - **Bronze Layer** → Raw data ingestion with full audit trail
 - **Silver Layer** → Cleaned, validated, business-ready data
 - **Gold Layer** → Aggregated analytics and ML-ready features
+
+
+![Medallion Architecture](visuals/img 1 - medallion architecture.png)
 
 **Technology Stack:**
 - **Unity Catalog** → Data governance and discovery
@@ -164,13 +173,17 @@ graph LR
 
 This repository accompanies our comprehensive YouTube tutorial series. Part 1 covers building the complete lakehouse architecture, while Part 2 extends into Power BI integration and AI assistant development.
 
+## 🌟 What's Next?
+
+After mastering this tutorial, you'll have the foundation to tackle any data engineering challenge. The skills transfer directly to processing financial transactions, IoT sensor data, customer analytics, or real-time streaming data. Consider extending your project with Power BI dashboards or building AI agents for conversational analytics.
+
+
+!Learning Journey](visuals/img 3 - conclusion.png)
+
 ## 🤝 Contributing
 
 Found ways to improve the tutorial? Fork the repository, create a feature branch, and submit a pull request. Contributions help make this resource better for everyone learning data engineering.
 
-## 🌟 What's Next?
-
-After mastering this tutorial, you'll have the foundation to tackle any data engineering challenge. The skills transfer directly to processing financial transactions, IoT sensor data, customer analytics, or real-time streaming data. Consider extending your project with Power BI dashboards or building AI agents for conversational analytics.
 
 ## 📞 Connect & Learn More
 
