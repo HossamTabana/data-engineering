@@ -55,7 +55,7 @@
 - 15GB storage with community support
 
 ### 2. **Sample Data (Provided)**
-- Use our `sample_health_export.xml` to follow along
+- Use our `sample_export.xml` to follow along
 - **Optional:** Export your own iPhone data:
   1. Open Health app on iPhone
   2. Tap profile picture (top right)
@@ -84,16 +84,24 @@
 1. **Setup Databricks**
    - Sign up for free account
    - Create new workspace
-   - Import `Health Analytics Demo.ipynb`
 
-2. **Upload Data**
-   - Download `sample_export.xml` from this repo
-   - Upload to your Databricks workspace
 
-3. **Start Learning**
-   - Open the notebook
-   - Follow step-by-step instructions
+2. **Download the Required Files**
+
+From this repository, download both:
+   - `sample_export.xml` *(sample Apple Health data)*
+   - `Health Analytics Demo.ipynb` *(the Databricks notebook)*
+
+3. **Upload to Databricks**
+   - Go to the left sidebar → *Workspace* → *your user folder*
+   - Click the *folder icon* and choose *"Import"*
+   - Upload both the `.ipynb` and `.xml` files
+
+4. **Start Learning**  
+   - Follow step-by-step instructions in the notebook
    - Build your first data lakehouse!
+
+![Import instructions](visuals/img4-files.png)   
 
 ## 📚 Learning Journey
 
