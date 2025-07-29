@@ -101,7 +101,10 @@ From this repository, download both:
    - Follow step-by-step instructions in the notebook
    - Build your first data lakehouse!
 
-![Import instructions](visuals/img4-files.png)   
+<p align="center">
+  <img src="visuals/img4-files.png" alt="Import instructions" width="80%">
+</p>
+
 
 ## 📚 Learning Journey
 
@@ -145,7 +148,7 @@ You'll start by learning why traditional approaches fall short and how the lakeh
 - **Gold Layer** → Aggregated analytics and ML-ready features
 
 
-![Medallion Architecture](visuals/img1-medallion-architecture.png)
+![Medallion Architecture](visuals/img1-medallion.png)
 
 **Technology Stack:**
 - **Unity Catalog** → Data governance and discovery
