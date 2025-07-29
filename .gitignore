@@ -241,9 +241,6 @@ tensorboard_logs/
 *.pt
 *.pth
 
-# Jupyter notebook outputs
-*.ipynb
-
 # R files
 *.R
 *.RData
