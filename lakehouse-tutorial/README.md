@@ -49,7 +49,7 @@
 **No prior data engineering experience required!** This tutorial is designed for developers who want to learn data & AI fundamentals.
 
 ### 1. **Free Databricks Account**
-- Sign up at [databricks.com/learn/free-edition](https://www.databricks.com/learn/free-edition)
+- Sign up at [databricks.com/learn/free-edition](https://bit.ly/dbx-free-signup)
 - No credit card required, free forever
 - Includes Apache Spark, Delta Lake, and Unity Catalog
 - 15GB storage with community support
@@ -82,7 +82,7 @@
 **Get up and running in 10 minutes:**
 
 1. **Setup Databricks**
-   - Sign up for free account
+   - [Sign up for free account](https://bit.ly/dbx-free-signup)
    - Create new workspace
 
 
