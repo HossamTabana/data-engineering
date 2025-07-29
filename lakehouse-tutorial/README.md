@@ -89,7 +89,7 @@
 2. **Download the Required Files**
 
 From this repository, download both:
-   - `sample_export.xml` *(sample Apple Health data)*
+   - `sample_export.xml` *(sample Apple Health file in the data folder)*
    - `Health Analytics Demo.ipynb` *(the Databricks notebook)*
 
 3. **Upload to Databricks**
