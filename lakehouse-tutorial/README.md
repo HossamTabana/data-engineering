@@ -116,7 +116,7 @@ You'll start by learning why traditional approaches fall short and how the lakeh
 
 ### **Bronze Layer: Raw Data Ingestion**
 - Unity Catalog volume creation and management
-- Modern XML processing with Spark 4.0 (no more complex regex!)
+- Modern XML processing with Spark
 - Delta table creation with proper governance metadata
 - Understanding immutable data storage principles
 
@@ -182,7 +182,7 @@ graph LR
 
 ## 🎬 Video Tutorial
 
-This repository accompanies our comprehensive YouTube tutorial series. Part 1 covers building the complete lakehouse architecture, while Part 2 extends into Power BI integration and AI assistant development.
+This repository accompanies our comprehensive YouTube tutorial series. Part 1 covers building the complete lakehouse architecture, while Part 2 extends into Power BI integration and AI assistant development. *Coming soon!*
 
 ## 🌟 What's Next?
 
@@ -196,9 +196,13 @@ After mastering this tutorial, you'll have the foundation to tackle any data eng
 Found ways to improve the tutorial? Fork the repository, create a feature branch, and submit a pull request. Contributions help make this resource better for everyone learning data engineering.
 
 
-## 📞 Connect & Learn More
+## 🔗 Connect & Learn More
 
-Follow for more data engineering tutorials and connect with the growing community of developers building their data & AI skills. Subscribe to the YouTube channel for video content and join discussions about modern data architecture.
+Let’s stay in touch and keep learning together!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/semaan)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&logo=instagram&logoColor=white)](https://www.instagram.com/viktoria.semaan)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?&logo=youtube&logoColor=white)](https://www.youtube.com/@viktoriasemaan)
 
 ⭐ **Found this helpful?** Star the repo and share with developers interested in data & AI!
 

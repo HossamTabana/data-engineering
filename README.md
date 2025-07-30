@@ -23,4 +23,17 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
+## 🔗 Connect
+
+Let’s stay in touch and keep learning together!
+
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/semaan)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&logo=instagram&logoColor=white)](https://www.instagram.com/viktoria.semaan)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?&logo=youtube&logoColor=white)](https://www.youtube.com/@viktoriasemaan)
+
+---
+
+
+
 **Contributing:** Found a bug or have an improvement? Feel free to open an issue or submit a pull request!
