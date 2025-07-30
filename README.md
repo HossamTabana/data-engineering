@@ -11,6 +11,7 @@ Your first complete data engineering project - build a production lakehouse from
 
 *More projects coming soon...*
 
+
 ![Lakehouse Architecture](visuals/architecture-animated.gif)
 
 ---
