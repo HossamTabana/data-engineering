@@ -112,7 +112,8 @@ From this repository, download both:
 You'll start by learning why traditional approaches fall short and how the lakehouse architecture solves real business problems. We'll set up Unity Catalog to understand enterprise data governance from day one.
 
 ### 🏗️ Lakehouse Architecture Overview  
-![Lakehouse Architecture](visuals/lakehouse-diagram.png)
+
+![Lakehouse Architecture](visuals/architecture-animated.gif)
 
 ### **Bronze Layer: Raw Data Ingestion**
 - Unity Catalog volume creation and management
@@ -148,7 +149,10 @@ You'll start by learning why traditional approaches fall short and how the lakeh
 - **Gold Layer** → Aggregated analytics and ML-ready features
 
 
-![Medallion Architecture](visuals/img1-medallion.png)
+<div align="center">
+  <img src="visuals/img1-medallion.png" alt="Medallion Architecture" width="80%">
+</div>
+
 
 **Technology Stack:**
 - **Unity Catalog** → Data governance and discovery
@@ -189,7 +193,10 @@ This repository accompanies our comprehensive YouTube tutorial series. Part 1 co
 After mastering this tutorial, you'll have the foundation to tackle any data engineering challenge. The skills transfer directly to processing financial transactions, IoT sensor data, customer analytics, or real-time streaming data. Consider extending your project with Power BI dashboards or building AI agents for conversational analytics.
 
 
-![Learning Journey](visuals/img3-whatsnext.png)
+<div align="center">
+  <img src="visuals/img3-whatsnext.png" alt="Learning Journey" width="80%">
+</div>
+
 
 ## 🤝 Contributing
 
