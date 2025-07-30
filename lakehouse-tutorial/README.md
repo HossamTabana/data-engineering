@@ -139,7 +139,27 @@ You'll start by learning why traditional approaches fall short and how the lakeh
 - Monitoring and alerting best practices
 - Scaling considerations for enterprise workloads
 
-![Medallion Architecture](visuals/img2-optimization.png)
+
+<div align="center">
+  <img src="visuals/img2-zorder.png" alt="Optimization Overview" width="80%">
+</div>
+
+
+### 🛠️ Optimization Commands
+
+```sql
+-- Reorganize data for common query patterns
+OPTIMIZE health_data.gold.daily_health_summary
+ZORDER BY (activity_date, metric_category);
+
+-- Enable automatic optimization
+ALTER TABLE health_data.gold.daily_health_summary
+SET TBLPROPERTIES (
+  'delta.autoOptimize.optimizeWrite' = 'true',
+  'delta.autoOptimize.autoCompact' = 'true'
+);
+```
+
 
 ## 🏗️ Architecture You'll Build
 

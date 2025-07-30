@@ -11,6 +11,8 @@ Your first complete data engineering project - build a production lakehouse from
 
 *More projects coming soon...*
 
+![Lakehouse Architecture](visuals/architecture-animated.gif)
+
 ---
 
 👋 **About:** This portfolio showcases hands-on data engineering projects designed for practitioners to advance their knowledge in the data & AI space. Each project includes complete tutorials, sample data, and production-ready patterns.
