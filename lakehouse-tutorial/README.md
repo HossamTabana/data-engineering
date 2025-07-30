@@ -101,9 +101,9 @@ From this repository, download both:
    - Follow step-by-step instructions in the notebook
    - Build your first data lakehouse!
 
-<p align="center">
+<div align="center">
   <img src="visuals/img4-files.png" alt="Import instructions" width="80%">
-</p>
+</div>
 
 
 ## 📚 Learning Journey
